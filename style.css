@@ -1,0 +1,29 @@
+#title
+{
+    font-size: 100px;
+    color: red;
+    background-color: gold;
+    
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+#myCanvas
+{
+    
+    border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
+
+#button
+{
+    background-color: aquamarine;
+    font-size: 30px;
+    color: blue;
+    font-weight: bolder;
+    font-family: century;
+}
+
+
